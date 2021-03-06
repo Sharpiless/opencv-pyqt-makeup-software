@@ -1,5 +1,9 @@
 # 基于opencv+pyqt的美颜软件
 
+## 演示视频：
+
+https://www.bilibili.com/video/BV19t4y1B7ie
+
 ## 安装依赖：
 
 ```bash
